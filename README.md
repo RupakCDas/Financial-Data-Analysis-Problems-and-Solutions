@@ -1,4 +1,4 @@
-# Financial-Data-Analyst-Problems-Solutions
+# Financial/Business-Data Analyst Problems and Solutions
 - PROBLEM 1: Transaction Fraud Detection
 - PROBLEM 2:  Customer Churn & Revenue Retention Tracking
 ## PROBLEM 1 : Transaction Fraud Detection
