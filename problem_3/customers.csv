@@ -1,0 +1,201 @@
+customer_id,signup_date,city_tier,preferred_device,preferred_payment,gender
+CUST_1001,2025-06-13,3,Tablet,UPI,Male
+CUST_1002,2025-01-29,1,Tablet,Credit Card,Female
+CUST_1003,2025-01-07,2,Desktop,Debit Card,Non-binary
+CUST_1004,2025-03-12,3,Tablet,UPI,Male
+CUST_1005,2025-03-04,3,Mobile,Debit Card,Female
+CUST_1006,2025-02-27,2,Mobile,Debit Card,Non-binary
+CUST_1007,2025-02-05,1,Desktop,Debit Card,Non-binary
+CUST_1008,2025-01-27,3,Mobile,Credit Card,Female
+CUST_1009,2025-06-23,3,Mobile,Credit Card,Female
+CUST_1010,2025-05-20,3,Tablet,Debit Card,Non-binary
+CUST_1011,2025-01-23,1,Tablet,Wallet,Non-binary
+CUST_1012,2025-06-01,3,Mobile,Credit Card,Female
+CUST_1013,2025-04-19,2,Desktop,Wallet,Female
+CUST_1014,2025-01-09,2,Desktop,Wallet,Non-binary
+CUST_1015,2025-01-08,3,Tablet,Debit Card,Non-binary
+CUST_1016,2025-01-24,3,Mobile,Wallet,Female
+CUST_1017,2025-02-25,2,Tablet,Wallet,Female
+CUST_1018,2025-03-01,2,Desktop,Wallet,Non-binary
+CUST_1019,2025-05-10,3,Mobile,Debit Card,Female
+CUST_1020,2025-06-04,2,Tablet,Debit Card,Female
+CUST_1021,2025-01-07,1,Tablet,Credit Card,Female
+CUST_1022,2025-05-24,1,Desktop,Credit Card,Female
+CUST_1023,2025-02-20,1,Tablet,Wallet,Male
+CUST_1024,2025-06-16,1,Desktop,Debit Card,Male
+CUST_1025,2025-06-29,2,Desktop,Debit Card,Non-binary
+CUST_1026,2025-05-20,1,Mobile,Wallet,Male
+CUST_1027,2025-04-18,3,Mobile,Credit Card,Female
+CUST_1028,2025-02-26,3,Tablet,Debit Card,Male
+CUST_1029,2025-04-25,1,Desktop,Credit Card,Non-binary
+CUST_1030,2025-05-31,3,Desktop,Wallet,Non-binary
+CUST_1031,2025-03-13,1,Mobile,Debit Card,Non-binary
+CUST_1032,2025-01-02,1,Mobile,Wallet,Male
+CUST_1033,2025-02-10,1,Desktop,UPI,Male
+CUST_1034,2025-06-28,3,Mobile,Wallet,Male
+CUST_1035,2025-04-19,3,Tablet,Wallet,Non-binary
+CUST_1036,2025-03-29,1,Desktop,Wallet,Female
+CUST_1037,2025-03-13,1,Mobile,Debit Card,Female
+CUST_1038,2025-02-09,1,Tablet,Wallet,Non-binary
+CUST_1039,2025-02-25,1,Desktop,Wallet,Non-binary
+CUST_1040,2025-03-28,2,Tablet,UPI,Non-binary
+CUST_1041,2025-01-27,1,Tablet,Debit Card,Non-binary
+CUST_1042,2025-01-24,3,Desktop,UPI,Female
+CUST_1043,2025-04-08,1,Tablet,Wallet,Male
+CUST_1044,2025-01-25,2,Mobile,Debit Card,Male
+CUST_1045,2025-04-02,3,Mobile,UPI,Female
+CUST_1046,2025-03-30,2,Mobile,Wallet,Male
+CUST_1047,2025-06-04,1,Tablet,Credit Card,Female
+CUST_1048,2025-03-09,3,Mobile,UPI,Male
+CUST_1049,2025-01-12,1,Tablet,Debit Card,Female
+CUST_1050,2025-04-28,3,Mobile,UPI,Male
+CUST_1051,2025-05-18,3,Desktop,UPI,Non-binary
+CUST_1052,2025-02-01,3,Tablet,UPI,Non-binary
+CUST_1053,2025-04-07,2,Tablet,Credit Card,Male
+CUST_1054,2025-01-21,1,Mobile,Debit Card,Female
+CUST_1055,2025-05-22,2,Desktop,Debit Card,Male
+CUST_1056,2025-03-17,2,Mobile,Debit Card,Male
+CUST_1057,2025-06-10,1,Mobile,Wallet,Non-binary
+CUST_1058,2025-06-08,1,Desktop,Debit Card,Female
+CUST_1059,2025-04-03,1,Desktop,Debit Card,Non-binary
+CUST_1060,2025-05-28,3,Mobile,Credit Card,Male
+CUST_1061,2025-02-19,2,Desktop,Wallet,Non-binary
+CUST_1062,2025-06-30,2,Mobile,Wallet,Female
+CUST_1063,2025-01-18,2,Tablet,UPI,Male
+CUST_1064,2025-01-12,2,Mobile,Wallet,Male
+CUST_1065,2025-06-19,2,Tablet,Wallet,Non-binary
+CUST_1066,2025-02-28,3,Mobile,Credit Card,Female
+CUST_1067,2025-03-16,1,Desktop,Debit Card,Female
+CUST_1068,2025-01-21,3,Tablet,Wallet,Female
+CUST_1069,2025-03-01,3,Desktop,Wallet,Female
+CUST_1070,2025-01-26,3,Tablet,Credit Card,Female
+CUST_1071,2025-04-08,1,Tablet,Wallet,Male
+CUST_1072,2025-03-13,1,Mobile,Wallet,Male
+CUST_1073,2025-04-27,2,Mobile,Credit Card,Female
+CUST_1074,2025-06-12,3,Mobile,UPI,Female
+CUST_1075,2025-04-04,2,Mobile,UPI,Male
+CUST_1076,2025-02-11,1,Desktop,Wallet,Male
+CUST_1077,2025-04-05,1,Mobile,Wallet,Female
+CUST_1078,2025-04-01,1,Mobile,Debit Card,Female
+CUST_1079,2025-02-23,1,Tablet,Wallet,Male
+CUST_1080,2025-06-21,3,Desktop,Debit Card,Non-binary
+CUST_1081,2025-03-10,2,Desktop,UPI,Non-binary
+CUST_1082,2025-06-29,1,Tablet,Wallet,Non-binary
+CUST_1083,2025-06-24,2,Tablet,Wallet,Male
+CUST_1084,2025-06-15,1,Mobile,Credit Card,Male
+CUST_1085,2025-01-19,2,Desktop,Wallet,Male
+CUST_1086,2025-06-05,2,Mobile,UPI,Non-binary
+CUST_1087,2025-06-12,1,Tablet,Wallet,Female
+CUST_1088,2025-02-13,1,Mobile,Debit Card,Male
+CUST_1089,2025-05-17,2,Desktop,Wallet,Male
+CUST_1090,2025-03-04,3,Mobile,Debit Card,Male
+CUST_1091,2025-02-11,1,Desktop,Credit Card,Non-binary
+CUST_1092,2025-04-29,1,Mobile,Wallet,Female
+CUST_1093,2025-04-08,3,Mobile,Credit Card,Non-binary
+CUST_1094,2025-03-11,3,Desktop,Credit Card,Non-binary
+CUST_1095,2025-06-13,1,Desktop,Wallet,Non-binary
+CUST_1096,2025-06-26,1,Desktop,Debit Card,Male
+CUST_1097,2025-05-23,1,Mobile,Wallet,Non-binary
+CUST_1098,2025-02-26,1,Mobile,Debit Card,Female
+CUST_1099,2025-06-25,2,Mobile,Credit Card,Female
+CUST_1100,2025-03-25,2,Tablet,UPI,Female
+CUST_1101,2025-01-15,2,Mobile,Wallet,Female
+CUST_1102,2025-02-28,1,Desktop,UPI,Non-binary
+CUST_1103,2025-01-09,2,Desktop,Debit Card,Female
+CUST_1104,2025-03-22,1,Desktop,Wallet,Female
+CUST_1105,2025-04-13,1,Mobile,UPI,Non-binary
+CUST_1106,2025-03-10,2,Desktop,UPI,Non-binary
+CUST_1107,2025-01-17,1,Desktop,Wallet,Male
+CUST_1108,2025-02-24,2,Tablet,UPI,Non-binary
+CUST_1109,2025-05-26,2,Tablet,Wallet,Non-binary
+CUST_1110,2025-03-22,2,Desktop,UPI,Male
+CUST_1111,2025-02-24,2,Tablet,Credit Card,Male
+CUST_1112,2025-06-17,2,Tablet,Wallet,Non-binary
+CUST_1113,2025-05-08,3,Desktop,Credit Card,Male
+CUST_1114,2025-04-12,3,Mobile,Credit Card,Female
+CUST_1115,2025-06-14,3,Mobile,UPI,Non-binary
+CUST_1116,2025-04-28,3,Desktop,Debit Card,Male
+CUST_1117,2025-02-06,3,Mobile,Credit Card,Male
+CUST_1118,2025-03-09,2,Tablet,Credit Card,Male
+CUST_1119,2025-02-05,1,Desktop,Credit Card,Male
+CUST_1120,2025-03-05,1,Mobile,Debit Card,Non-binary
+CUST_1121,2025-05-24,2,Mobile,Debit Card,Male
+CUST_1122,2025-05-18,1,Tablet,Credit Card,Male
+CUST_1123,2025-03-09,1,Desktop,Debit Card,Male
+CUST_1124,2025-05-30,3,Desktop,Debit Card,Female
+CUST_1125,2025-04-20,3,Tablet,Debit Card,Female
+CUST_1126,2025-05-30,3,Desktop,Wallet,Non-binary
+CUST_1127,2025-04-13,1,Desktop,Credit Card,Non-binary
+CUST_1128,2025-04-03,3,Tablet,Debit Card,Female
+CUST_1129,2025-02-26,2,Tablet,Wallet,Female
+CUST_1130,2025-02-05,1,Mobile,UPI,Male
+CUST_1131,2025-05-11,1,Desktop,UPI,Male
+CUST_1132,2025-05-07,3,Tablet,Debit Card,Female
+CUST_1133,2025-01-24,2,Mobile,Credit Card,Non-binary
+CUST_1134,2025-01-13,3,Desktop,Debit Card,Female
+CUST_1135,2025-01-29,3,Mobile,UPI,Non-binary
+CUST_1136,2025-02-09,1,Tablet,Credit Card,Female
+CUST_1137,2025-06-10,1,Desktop,Credit Card,Male
+CUST_1138,2025-02-10,3,Mobile,UPI,Non-binary
+CUST_1139,2025-06-24,1,Tablet,Wallet,Male
+CUST_1140,2025-04-19,1,Tablet,Wallet,Female
+CUST_1141,2025-06-02,1,Tablet,Debit Card,Non-binary
+CUST_1142,2025-01-17,3,Tablet,Credit Card,Non-binary
+CUST_1143,2025-04-09,1,Tablet,Debit Card,Non-binary
+CUST_1144,2025-04-08,3,Tablet,Credit Card,Male
+CUST_1145,2025-06-02,1,Tablet,UPI,Female
+CUST_1146,2025-04-30,2,Mobile,Credit Card,Male
+CUST_1147,2025-05-16,1,Desktop,Credit Card,Non-binary
+CUST_1148,2025-03-06,3,Desktop,UPI,Male
+CUST_1149,2025-05-22,1,Mobile,Wallet,Non-binary
+CUST_1150,2025-01-03,3,Tablet,UPI,Male
+CUST_1151,2025-06-24,3,Desktop,Credit Card,Female
+CUST_1152,2025-01-30,1,Tablet,UPI,Male
+CUST_1153,2025-06-24,3,Desktop,Credit Card,Male
+CUST_1154,2025-05-18,1,Tablet,Wallet,Male
+CUST_1155,2025-03-10,2,Mobile,Wallet,Male
+CUST_1156,2025-06-14,3,Tablet,Credit Card,Female
+CUST_1157,2025-03-29,3,Desktop,Wallet,Non-binary
+CUST_1158,2025-01-29,3,Tablet,UPI,Non-binary
+CUST_1159,2025-03-17,3,Desktop,Wallet,Non-binary
+CUST_1160,2025-04-22,2,Tablet,Debit Card,Female
+CUST_1161,2025-02-10,2,Desktop,Wallet,Female
+CUST_1162,2025-04-27,1,Desktop,Debit Card,Male
+CUST_1163,2025-01-01,3,Desktop,UPI,Female
+CUST_1164,2025-03-09,3,Tablet,Wallet,Non-binary
+CUST_1165,2025-05-09,2,Desktop,Wallet,Female
+CUST_1166,2025-02-15,1,Tablet,Wallet,Non-binary
+CUST_1167,2025-05-10,2,Mobile,UPI,Female
+CUST_1168,2025-01-28,2,Mobile,UPI,Female
+CUST_1169,2025-06-10,1,Desktop,Debit Card,Non-binary
+CUST_1170,2025-03-18,3,Tablet,Credit Card,Non-binary
+CUST_1171,2025-06-13,3,Desktop,UPI,Female
+CUST_1172,2025-05-10,2,Tablet,Wallet,Female
+CUST_1173,2025-06-05,2,Tablet,Debit Card,Male
+CUST_1174,2025-02-20,2,Mobile,Wallet,Non-binary
+CUST_1175,2025-02-09,1,Tablet,Wallet,Male
+CUST_1176,2025-04-06,1,Tablet,UPI,Female
+CUST_1177,2025-02-11,2,Desktop,Credit Card,Non-binary
+CUST_1178,2025-05-19,3,Desktop,Wallet,Female
+CUST_1179,2025-05-16,3,Tablet,UPI,Non-binary
+CUST_1180,2025-01-01,1,Mobile,Debit Card,Female
+CUST_1181,2025-06-03,1,Desktop,Wallet,Male
+CUST_1182,2025-03-24,3,Desktop,Debit Card,Male
+CUST_1183,2025-05-06,1,Mobile,UPI,Male
+CUST_1184,2025-01-05,3,Desktop,UPI,Non-binary
+CUST_1185,2025-01-29,2,Tablet,UPI,Non-binary
+CUST_1186,2025-04-03,1,Tablet,UPI,Non-binary
+CUST_1187,2025-03-20,2,Tablet,UPI,Male
+CUST_1188,2025-03-03,1,Desktop,Credit Card,Non-binary
+CUST_1189,2025-01-15,1,Desktop,Debit Card,Female
+CUST_1190,2025-03-03,2,Desktop,Credit Card,Non-binary
+CUST_1191,2025-05-26,2,Desktop,Debit Card,Male
+CUST_1192,2025-01-21,1,Tablet,Wallet,Male
+CUST_1193,2025-01-22,2,Mobile,Wallet,Female
+CUST_1194,2025-05-05,3,Tablet,Debit Card,Non-binary
+CUST_1195,2025-01-18,3,Desktop,Wallet,Non-binary
+CUST_1196,2025-05-17,2,Tablet,Wallet,Female
+CUST_1197,2025-02-02,3,Mobile,Wallet,Female
+CUST_1198,2025-02-02,3,Tablet,Credit Card,Male
+CUST_1199,2025-06-18,3,Mobile,Credit Card,Non-binary
+CUST_1200,2025-05-02,1,Desktop,UPI,Female
