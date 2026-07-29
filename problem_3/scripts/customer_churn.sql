@@ -1,3 +1,11 @@
+-- ================================================================
+--  PROBLEM 3: E-Commerce Customer Churn Analysis
+--  REAL-WORLD CONTEXT :
+--  losing customers means losing revenue — and
+--  it's less expensive to retain existing customers than acquiring
+--  new ones.
+-- ================================================================
+
 CREATE TABLE IF NOT EXISTS customers (
     customer_id VARCHAR(20) PRIMARY KEY,
     signup_date VARCHAR(20),
