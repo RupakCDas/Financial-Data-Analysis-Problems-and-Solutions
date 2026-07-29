@@ -1,6 +1,7 @@
 # Financial/Business-Data Analysis Problems and Solutions
 - PROBLEM 1: Transaction Fraud Detection
 - PROBLEM 2:  Customer Churn & Revenue Retention Tracking
+- PROBLEM 3: E-Commerce Customer Churn Analysis.
 ## PROBLEM 1 : Transaction Fraud Detection
 
 Fraud Detection is used daily by every bank and FinTech. Data analysts collect transactional data from credit card records, account history, user behavior, and device information to build fraud detection systems. 
@@ -36,5 +37,18 @@ The SQL builds cohort retention tables, MRR movement (new/expansion/contraction/
 Real-world: Company tracks this every month to understand revenue health
 
 
+## PROBLEM 3: E-Commerce Customer Churn Analysis.
+
+Losing customers means losing revenue, and it's less expensive to retain existing customers than acquiring new ones.
+
+BUSINESS COMPLAINT:
+
+16.8% of our customers churned last quarter. We don't know who will churn next, or why they're leaving.
+
+#### TASK 1: Confirm churn rate & segment by profile
+Which customer types are churning most? Which customers to target with retention offers BEFORE they churn?
+
+#### TASK 2: RFM Segmentation to find at-risk customers
+Recency + Frequency + Monetary — the classic retention model.
 
 
