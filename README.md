@@ -2,6 +2,7 @@
 - PROBLEM 1: Transaction Fraud Detection
 - PROBLEM 2:  Customer Churn & Revenue Retention Tracking
 - PROBLEM 3: E-Commerce Customer Churn Analysis.
+- PROBLEM 4: Making Star Schema Data Model.
 ## PROBLEM 1 : Transaction Fraud Detection
 
 Fraud Detection is used daily by every bank and FinTech. Data analysts collect transactional data from credit card records, account history, user behavior, and device information to build fraud detection systems. 
@@ -50,5 +51,26 @@ Which customer types are churning most? Which customers to target with retention
 
 #### TASK 2: RFM Segmentation to find at-risk customers
 Recency + Frequency + Monetary — the classic retention model.
+
+## PROBLEM 4: Making Star Schema Data Model.
+
+This is a well-structured Star Schema designed for a  banking  services data warehouse. It separates descriptive context (Dimension tables, prefixed with dim_) from quantitative measurements (Fact tables, prefixed with fact_).
+
+#### Requirements Gathering & Business Understanding
+Before touching any data, I had to define what the business needs to track. In this model, the business objectives are clear:
+
+Core Entities: Customers, accounts, branches, employees, loans, and credit cards.
+
+Key Activities (Facts): Financial transactions, card purchases, loan payments, and customer support interactions.
+
+#### Defining Dimension Tables:
+These tables contain descriptive, textual attributes used for filtering and slicing data.
+
+customers, branches, employees, loans, cards, and accounts are defined here as dimension tables.
+
+#### Defining Fact Tables:
+These tables contain quantitative metrics (numerical values that can aggregate) and foreign keys connecting back to the dimensions. Usually very large in size.
+
+transactions, card_transactions, loan_payments, and support_tickets are defined here as dimension tables.
 
 
