@@ -73,4 +73,5 @@ These tables contain quantitative metrics (numerical values that can aggregate) 
 
 transactions, card_transactions, loan_payments, and support_tickets are defined here as dimension tables.
 
+<img width="683" height="328" alt="5" src="https://github.com/user-attachments/assets/82a3f150-010e-402d-bc1a-73471ef6c261" />
 
