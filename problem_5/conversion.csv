@@ -1,0 +1,6 @@
+order_step,funnel_step,sessions,prev_step_sessions,step_conversion_pct,pct_lost_from_top,conversion_pct,avg_cart_value
+1,view_product,100,NULL,NULL,NULL,100.00,0
+2,add_to_cart,75,100,75.0,25.0,75.00,44.62
+3,begin_checkout,48,75,64.0,27.0,48.00,44.25
+4,add_payment_info,36,48,75.0,12.0,36.00,45.17
+5,purchase_complete,15,36,41.7,21.0,15.00,46.29
