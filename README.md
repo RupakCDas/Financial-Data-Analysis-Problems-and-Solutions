@@ -3,6 +3,7 @@
 - PROBLEM 2:  Customer Churn & Revenue Retention Tracking
 - PROBLEM 3: E-Commerce Customer Churn Analysis.
 - PROBLEM 4: Making Snowflake Schema Data Model.
+- PROBLEM 5: E-Commerce Cart Abandonment Analysis.
 ## PROBLEM 1 : Transaction Fraud Detection
 
 Fraud Detection is used daily by every bank and FinTech. Data analysts collect transactional data from credit card records, account history, user behavior, and device information to build fraud detection systems. 
@@ -74,4 +75,8 @@ These tables contain quantitative metrics (numerical values that can aggregate) 
 transactions, card_transactions, loan_payments, and support_tickets are defined here as dimension tables.
 
 <img width="683" height="328" alt="5" src="https://github.com/user-attachments/assets/82a3f150-010e-402d-bc1a-73471ef6c261" />
+
+
+## PROBLEM 5: E-Commerce Cart Abandonment Analysis.
+
 
