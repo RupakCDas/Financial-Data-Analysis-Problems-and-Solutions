@@ -4,6 +4,7 @@
 - PROBLEM 3: E-Commerce Customer Churn Analysis.
 - PROBLEM 4: Making Snowflake Schema Data Model.
 - PROBLEM 5: E-Commerce Cart Abandonment Analysis.
+- PROBLEM 6: Airbnb Data Analysis Using Python.
 ## PROBLEM 1 : Transaction Fraud Detection
 
 Fraud Detection is used daily by every bank and FinTech. Data analysts collect transactional data from credit card records, account history, user behavior, and device information to build fraud detection systems. 
